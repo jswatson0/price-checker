@@ -1,0 +1,33 @@
+.form-group {
+    width: 100%;
+}
+
+#form {
+    padding-top: 20px;
+    text-align: center;
+    /*display: inline-flex;*/
+    /*display: inline-block;*/
+}
+
+#submit-btn {
+    /*margin-right: 8px;*/
+}
+
+.button-group {
+    text-align: center;
+}
+
+#price {
+    color: green;
+}
+
+.product-info {
+    padding-top: 20px;
+    text-align: left;
+    /*position: fixed;*/
+    /*bottom: 10px;*/
+}
+
+#header {
+    text-align: center;
+}
